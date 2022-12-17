@@ -1,2 +1,2 @@
-# DiscordTools
-All Of The Discord Tools Such As Token Grabbers, Discord Nukers, Discord Token Checkers, And More
+# **Discord Tools**
+All Of The Discord Tools Such As Token Grabbers **MAKERS**, Discord Nukers, Discord Token Checkers, And More
