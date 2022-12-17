@@ -1,4 +1,4 @@
-## Inner workings of Discord
+## Will We Give You A Virus?
 
 **Disclaimer:** The Information provided in this section is obtained through reverse-engineering and NOT verfied for it's accuracy. Therefore it might be outdated aswell.
 <details>
